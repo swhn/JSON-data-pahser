@@ -1,0 +1,35 @@
+[
+    {
+      "sn": "123456",
+      "option": "dr",
+      "etype": "Detector",
+      "ebrand": "Viewworks",
+      "emodel": "Vivix-S 3643",
+      "einstallDate": "12-04-2020",
+      "ewarrantyDate": "08-04-2023",
+      "ewarrantyStatus": "",
+      "customer": "Test Customer",
+      "location": "Yangon",
+      "image": "image1.jpg"
+    },
+    {
+      "sn": "222",
+      "option": "dr",
+      "description": "Description for Item 2",
+      "image": "image2.jpg"
+    },
+    {
+        "sn": "111",
+        "option": "option1",
+        "description": "Description for Item 1",
+        "image": "image1.jpg"
+      },
+      {
+        "sn": "333",
+        "option": "option2",
+        "description": "Description for Item 2",
+        "image": "image2.jpg"
+      }
+    
+  ]
+  
