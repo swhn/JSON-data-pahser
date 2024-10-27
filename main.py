@@ -9,7 +9,7 @@ data_path = "data/data.json"
 with open(data_path, "r") as f:
     devices = json.load(f)
 
-API_TOKEN = 'YOUR_BOT_API_TOKEN'
+API_TOKEN = '7731550778:AAHlIAbKMYOIv9ZGzLgUDNdVN_NFaVw-fMA'
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     """Send a greeting when the /start command is issued."""
